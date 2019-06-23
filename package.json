@@ -1,6 +1,6 @@
 {
   "name": "@funcmaticjs/event-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Performs some helpful formatting and normalization of the an AWS API Gateway Lambda Proxy Integration HTTP event.",
   "main": "index.js",
   "scripts": {
